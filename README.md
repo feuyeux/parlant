@@ -218,7 +218,15 @@ if __name__ == "__main__":
 
 _Financial institutions • Healthcare providers • Legal firms • E-commerce platforms_
 
-[![Star History Chart](https://api.star-history.com/svg?repos=emcie-co/parlant&type=Date)](https://star-history.com/#emcie-co/parlant&Date)
+[![Repo size](https://img.shields.io/github/repo-size/emcie-co/parlant)](https://github.com/emcie-co/parlant)
+[![Last commit](https://img.shields.io/github/last-commit/emcie-co/parlant)](https://github.com/emcie-co/parlant/commits)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/emcie-co/parlant)](https://github.com/emcie-co/parlant/graphs/commit-activity)
+[![Contributors](https://img.shields.io/github/contributors/emcie-co/parlant)](https://github.com/emcie-co/parlant/graphs/contributors)
+
+Star history: [star-history.com/#emcie-co/parlant](https://star-history.com/#emcie-co/parlant&Date).
+The live embed was removed because GitHub now restricts the stargazer timeline API
+to repository collaborators, so third-party star charts cannot render without an
+owner-supplied token ([details](https://www.star-history.com/blog/github-stargazer-api-restriction)).
 
 </div>
 
